@@ -22,6 +22,7 @@ end
 group :test do
   gem 'rspec-expectations', '~> 3.3.1'
   gem 'capybara', '~> 2.3.0'
+  gem 'shoulda-matchers', '~> 2.8.0'
 end
 
 group :development do
